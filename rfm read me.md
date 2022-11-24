@@ -133,3 +133,5 @@ Results:</br>
 And here is the tree map of the customer segmentation we've just gone through</br>
 ![alt text](https://github.com/thaianhnguyen/RFM-analysis-with-SQL/blob/main/images%20rfm/Screenshot_5.jpg)
 
+Thank you for reading! See you in my next blog!
+
