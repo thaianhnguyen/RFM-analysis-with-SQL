@@ -3,6 +3,7 @@ Dataset was collected from Kaggle: [Bank Customer Churn Dataset](https://www.kag
 
 For this project, I will conduct an RFM analysis to segment customers, in hopes of helping business users develop their targeted marketing campaigns as well as CRM. </br>
 The segmentation is based on 3 dimensions: Recency (how long has it been since the last order of customers), Frequency (How often do they make purchases) and Monetary (How much do they pay for our goods). </br>
+
 The company in this project is Olist, an e-commerce company, which connects small business owners from all over Brazil to sellers, who sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners.
 
 Because the analysis will be featured on my subsequent Power BI project; therefore, I will create a separate table for more conveniences:
