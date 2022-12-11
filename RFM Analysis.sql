@@ -83,6 +83,7 @@ set frequency_rank =(
   		 else 1 end
     from rfm);
 
+-- segment the customers
 with cte3 as (
 select customer,
 	   recency_rank + frequency_rank + monetary_rank as rfm_score
