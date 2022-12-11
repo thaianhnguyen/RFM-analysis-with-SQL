@@ -35,6 +35,7 @@ select customer_unique_id as customer,
 from cte
 group by customer_unique_id;
 
+-- calculate the rank score for each dimension
 with cte2 as (
 select customer, 
 	round(PERCENT_RANK() over (order by recency)*100,2) as r,
